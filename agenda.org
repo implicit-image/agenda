@@ -1,0 +1,73 @@
+#+title: Agenda
+
+* TODO [#A] Urząd Pracy 8:30
+<2024-04-04 Thu>
+* DONE [#B] Naleśniki 14:00 <2024-03-09 Sat>
+CLOSED: [2024-03-10 Sun 02:28]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2024-03-10 Sun 02:28]
+:END:
+* TODO [#A] Pranie bielizna i pościel
+<2024-03-15 Fri>
+* TODO [#A] Sprzątnąć łazienkę
+<2024-03-16 Sat +1w>
+:PROPERTIES:
+:LAST_REPEAT: [2024-03-09 Sat 15:10]
+:END:
+- State "DONE"       from "TODO"       [2024-03-09 Sat 15:10]
+** TODO [#A] Wymienić odswierzacz w toalecie
+* TODO [#A] Sprzątnąć pokój
+<2024-03-09 Sat +1w>
+* TODO [#C] Tabletki 10:00
+<2024-03-12 Tue +1d>
+:PROPERTIES:
+:LAST_REPEAT: [2024-03-11 Mon 16:17]
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2024-03-11 Mon 16:17]
+- State "DONE"       from "TODO"       [2024-03-10 Sun 10:27]
+:END:
+- State "DONE"       from "TODO"       [2024-03-09 Sat 13:20]
+
+* TODO [#B] Śmieci z balkonu
+<2024-03-14 Thu +1d>
+:PROPERTIES:
+:LAST_REPEAT: [2024-03-11 Mon 20:44]
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2024-03-11 Mon 20:44]
+- State "DONE"       from "TODO"       [2024-03-11 Mon 20:44]
+- State "DONE"       from "TODO"       [2024-03-11 Mon 20:44]
+- State "DONE"       from "TODO"       [2024-03-11 Mon 20:44]
+:END:
+
+* TODO [#A] Kwiaty w pokoju
+<2024-03-16 Sat +1w>
+* TODO [#C] Śniadanie 10:00
+<2024-03-12 Tue +1d>
+:PROPERTIES:
+:LAST_REPEAT: [2024-03-11 Mon 16:17]
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2024-03-11 Mon 16:17]
+- State "DONE"       from "TODO"       [2024-03-10 Sun 11:12]
+:END:
+
+* DONE [#A] Umówić się do psychiatry <2024-03-10 Sun>
+CLOSED: [2024-03-10 Sun 10:41]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2024-03-10 Sun 10:41]
+:END:
+
+* TODO [#A] Umówić sie do psychologa <2024-03-10 Sun>
+* DONE [#A] Kupić ryż 14:20 <2024-03-11 Mon>
+CLOSED: [2024-03-11 Mon 16:17]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2024-03-11 Mon 16:17]
+:END:
+
+* DONE [#A] Ugotować ryż 15:00 <2024-03-11 Mon>
+CLOSED: [2024-03-11 Mon 16:17]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2024-03-11 Mon 16:17]
+:END:
